@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"action-configmanager-viewspecialpage": "d'Spezialsäit \"{{int:configmanager}}\" weisen",
+	"configmanager-discardchanges": "Ännerungen annuléieren?",
+	"configmanager-noentry": "Näischt fonnt"
+}

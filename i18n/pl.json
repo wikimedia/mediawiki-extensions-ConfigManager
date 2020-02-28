@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Railfail536",
+			"Rail"
+		]
+	},
+	"configmanager-discardchanges": "Porzucić zmiany?",
+	"right-configmanager-viewspecialpage": "Dostęp do strony specjalnej [[Special:ConfigManager]]."
+}

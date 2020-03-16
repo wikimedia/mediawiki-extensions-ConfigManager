@@ -4,13 +4,13 @@
 			"BaRaN6161 TURK"
 		]
 	},
-	"configmanager-admintool-label": "Yapılandırma Yöneticisi",
-	"action-configmanager-viewspecialpage": "özel sayfayı görüntüle \"{{int:configmanager}}\"",
-	"configmanager": "Yapılandırma Yöneticisi",
-	"configmanager-desc": "Yöneticilere, tüm wikiyi tek bir özel sayfadan yapılandırma imkanı sunar.",
+	"configmanager-admintool-label": "Yapılandırma yöneticisi",
+	"action-configmanager-viewspecialpage": "\"{{int:configmanager}}\" özel sayfayı görüntüle",
+	"configmanager": "Yapılandırma yöneticisi",
+	"configmanager-desc": "Yöneticilere, tüm vikiyi tek bir özel sayfadan yapılandırma imkanı sunar.",
 	"configmanager-discardchanges": "Değişiklikleri gözardı edilsin mi?",
 	"configmanager-noentry": "Giriş bulunamadı",
 	"apihelp-configmanager-tasks-summary": "Görevleri yönet",
 	"apihelp-configmanager-store-summary": "Mağazaları yönet",
-	"right-configmanager-viewspecialpage": "Özel sayfaya erişin [[Special:ConfigManager]]"
+	"right-configmanager-viewspecialpage": "[[Special:ConfigManager]] özel sayfaya erişin"
 }

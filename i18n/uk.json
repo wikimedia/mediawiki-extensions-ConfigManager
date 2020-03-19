@@ -16,5 +16,5 @@
 	"configmanager-noentry": "Жодного запису не знайдено",
 	"apihelp-configmanager-tasks-summary": "Керувати завданнями",
 	"apihelp-configmanager-store-summary": "Керувати сховищами",
-	"right-configmanager-viewspecialpage": "доступ до спеціальної сторінки [[Special:ConfigManager]]"
+	"right-configmanager-viewspecialpage": "Доступ до спеціальної сторінки [[Special:ConfigManager]]"
 }

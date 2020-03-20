@@ -5,7 +5,8 @@
 			"Gazimagomedov",
 			"Facenapalm",
 			"Vlad5250",
-			"Romanko Mikhail"
+			"Romanko Mikhail",
+			"Alexander Yukal"
 		]
 	},
 	"configmanager-admintool-label": "Менеджер конфигурации",
@@ -13,6 +14,8 @@
 	"configmanager": "Менеджер конфигурации",
 	"configmanager-desc": "Дает возможность администраторам настроить всю вики на одной спецстранице",
 	"configmanager-discardchanges": "Отменить изменения?",
+	"configmanager-noentry": "Запись не найдена",
 	"apihelp-configmanager-tasks-summary": "Управление заданиями",
+	"apihelp-configmanager-store-summary": "Управление хранилищами",
 	"right-configmanager-viewspecialpage": "доступ к служебной странице [[Special:ConfigManager]]"
 }

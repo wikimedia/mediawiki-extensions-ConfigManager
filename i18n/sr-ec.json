@@ -6,10 +6,10 @@
 			"BadDog"
 		]
 	},
-	"configmanager-admintool-label": "Менаџер конфигурације",
-	"action-configmanager-viewspecialpage": "погледај посебну страницу \"{{int:configmanager}}\"",
-	"configmanager": "Менаџер конфигурације",
-	"configmanager-desc": "Пружа могућост администраторима, да конфигуришу цео вики из једне специјалне странице",
+	"configmanager-admintool-label": "Управљање конфигурацијом",
+	"action-configmanager-viewspecialpage": "видите посебну страницу „{{int:configmanager}}”",
+	"configmanager": "Управљање конфигурацијом",
+	"configmanager-desc": "Пружа могућост администраторима да конфигуришу цео вики с једне посебне странице",
 	"configmanager-discardchanges": "Одбаци промене?",
 	"configmanager-noentry": "Нису пронађени уноси",
 	"apihelp-configmanager-tasks-summary": "Управљај задацима",

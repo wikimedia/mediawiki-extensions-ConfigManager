@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"configmanager-admintool-label": "Menadžer konfiguracije",
 	"action-configmanager-viewspecialpage": "pogledaj posebnu stranicu \"{{int:configmanager}}\"",
 	"configmanager": "Menadžer konfiguracije",

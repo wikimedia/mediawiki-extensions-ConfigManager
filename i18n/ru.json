@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Gazimagomedov",
+			"Alexander Yukal",
 			"Facenapalm",
-			"Vlad5250",
+			"Gazimagomedov",
+			"Okras",
 			"Romanko Mikhail",
-			"Alexander Yukal"
+			"Vlad5250"
 		]
 	},
 	"configmanager-admintool-label": "Менеджер конфигурации",

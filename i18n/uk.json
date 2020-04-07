@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ата",
 			"Andriykopanytsia",
-			"Piramidion",
 			"Movses",
-			"Vlad5250"
+			"Piramidion",
+			"Vlad5250",
+			"Ата"
 		]
 	},
 	"configmanager-admintool-label": "Менеджер конфігурації",

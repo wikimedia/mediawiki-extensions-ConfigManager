@@ -3,11 +3,11 @@
 namespace ConfigManager\Api\Task;
 
 use BlueSpice\Api\Response\Standard;
-use ConfigManager\Data\ConfigManager\Record;
 use BlueSpice\Context;
 use BlueSpice\Data\RecordSet;
 use BlueSpice\Data\Settings\Store;
 use BlueSpice\Services;
+use ConfigManager\Data\ConfigManager\Record;
 
 class ConfigManager extends \BSApiTasksBase {
 

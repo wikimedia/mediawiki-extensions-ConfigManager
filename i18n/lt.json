@@ -1,8 +1,6 @@
 {
 	"@metadata": {
-		"authors": [
-			"Eitvys200"
-		]
+		"authors": []
 	},
 	"configmanager-desc": "Siūlo galimybę administratoriams konfigūruoti visą viki iš vieno SpecialausPuslapio"
 }

@@ -4,10 +4,12 @@
 			"Alirezaaa",
 			"Amirsara",
 			"FarsiNevis",
-			"Huji"
+			"Huji",
+			"Jeeputer"
 		]
 	},
 	"action-configmanager-viewspecialpage": "مشاهدهٔ صفحهٔ ویژهٔ «{{int:configmanager}}»",
 	"configmanager-desc": "به مدیران این امکان را می‌دهد که تمام ویکی را از طریق یک صفحهٔ ویژه پیکربندی کنند",
-	"configmanager-discardchanges": "دور ریختن تغییرات"
+	"configmanager-discardchanges": "دور ریختن تغییرات",
+	"apihelp-configmanager-tasks-summary": "مدیریت وظایف"
 }

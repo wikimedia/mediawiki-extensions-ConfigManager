@@ -9,12 +9,12 @@
 		]
 	},
 	"configmanager-admintool-label": "Gestionnaire de configuration",
-	"action-configmanager-viewspecialpage": "afficher la page spéciale « {{int:configmanager}} »",
+	"action-configmanager-viewspecialpage": "visualiser la page spéciale « {{int:configmanager}} »",
 	"configmanager": "Gestionnaire de configuration",
 	"configmanager-desc": "Offre aux administrateurs la possibilité de configurer l’intégralité du wiki depuis une unique page spéciale",
-	"configmanager-discardchanges": "Abandonner les modifications ?",
+	"configmanager-discardchanges": "Abandonner les modifications ?",
 	"configmanager-noentry": "Aucune entrée trouvée",
 	"apihelp-configmanager-tasks-summary": "Gérer les tâches",
 	"apihelp-configmanager-store-summary": "Gérer les magasins",
-	"right-configmanager-viewspecialpage": "Accès à la page spéciale [[Special:ConfigManager]]"
+	"right-configmanager-viewspecialpage": "Accès à la page spéciale [[Special:ConfigManager|Spécial:Gestionnaire de configuration]]"
 }

@@ -22,7 +22,7 @@ class ConfigManager extends \BSApiTasksBase {
 	/**
 	 * Returns an array of tasks and their required permissions
 	 * array('taskname' => array('read', 'edit'))
-	 * @return type
+	 * @return string[][]
 	 */
 	protected function getRequiredTaskPermissions() {
 		return [
@@ -79,7 +79,6 @@ class ConfigManager extends \BSApiTasksBase {
 	}
 
 	/**
-	 *
 	 * @return Services
 	 */
 	protected function getServices() {
@@ -87,7 +86,6 @@ class ConfigManager extends \BSApiTasksBase {
 	}
 
 	/**
-	 *
 	 * @return Store
 	 */
 	protected function getStore() {

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Guycn2",
-			"Steeve815"
+			"Steeve815",
+			"Amire80"
 		]
 	},
 	"configmanager-admintool-label": "ניהול הגדרות תצורה",
@@ -12,5 +13,6 @@
 	"configmanager-discardchanges": "למחוק את השינויים?",
 	"configmanager-noentry": "לא נמצא ערך",
 	"apihelp-configmanager-tasks-summary": "ניהול משימות",
-	"apihelp-configmanager-store-summary": "ניהול אחסונים"
+	"apihelp-configmanager-store-summary": "ניהול אחסונים",
+	"right-configmanager-viewspecialpage": "גישה לדף המיוחד [[Special:ConfigManager]]"
 }

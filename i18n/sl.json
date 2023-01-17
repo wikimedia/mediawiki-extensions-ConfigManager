@@ -2,8 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
-			"Skalcaa"
+			"Skalcaa",
+			"Eleassar"
 		]
 	},
-	"configmanager-desc": "Skrbnikom ponuja možnost konfiguracije celotnega wiki-ja iz ene PosebneStrani"
+	"configmanager-admintool-label": "Upravitelj konfiguracije",
+	"action-configmanager-viewspecialpage": "ogled posebne strani »{{int:configmanager}}«",
+	"configmanager": "Upravitelj konfiguracije",
+	"configmanager-desc": "Skrbnikom ponuja možnost konfiguracije celotnega wiki-ja iz ene PosebneStrani",
+	"configmanager-discardchanges": "Zavržem spremembe?",
+	"configmanager-noentry": "Ni najdenih vnosov",
+	"apihelp-configmanager-tasks-summary": "Upravljanje opravil",
+	"apihelp-configmanager-store-summary": "Upravljanje shramb",
+	"right-configmanager-viewspecialpage": "Dostop do posebne strani [[Special:ConfigManager]]"
 }

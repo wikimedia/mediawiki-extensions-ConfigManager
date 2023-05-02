@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eitvys200"
+			"Eitvys200",
+			"Nokeoo"
 		]
 	},
-	"configmanager-desc": "Siūlo galimybę administratoriams konfigūruoti visą viki iš vieno SpecialausPuslapio"
+	"configmanager-admintool-label": "Konfigūracijos tvarkyklė",
+	"action-configmanager-viewspecialpage": "žiūrėti specialų puslapį „{{int:configmanager}}“",
+	"configmanager": "Konfigūracijos tvarkyklė",
+	"configmanager-desc": "Siūlo galimybę administratoriams konfigūruoti visą viki iš vieno SpecialausPuslapio",
+	"configmanager-discardchanges": "Atsisakyti pakeitimų?",
+	"configmanager-noentry": "Įrašas nerastas",
+	"apihelp-configmanager-tasks-summary": "Tvarkyti užduotis",
+	"right-configmanager-viewspecialpage": "Prieiga prie specialaus puslapio [[Special:ConfigManager]]"
 }

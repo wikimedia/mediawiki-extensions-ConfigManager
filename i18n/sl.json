@@ -9,7 +9,7 @@
 	"configmanager-admintool-label": "Upravitelj konfiguracije",
 	"action-configmanager-viewspecialpage": "ogled posebne strani »{{int:configmanager}}«",
 	"configmanager": "Upravitelj konfiguracije",
-	"configmanager-desc": "Skrbnikom ponuja možnost konfiguracije celotnega wiki-ja iz ene PosebneStrani",
+	"configmanager-desc": "Administratorjem omogoča konfiguriranje celotnega vikija na posebni strani",
 	"configmanager-discardchanges": "Zavržem spremembe?",
 	"configmanager-noentry": "Ni najdenih vnosov",
 	"apihelp-configmanager-tasks-summary": "Upravljanje opravil",

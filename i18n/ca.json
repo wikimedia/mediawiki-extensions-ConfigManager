@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Edustus",
-			"Fitoschido"
+			"Fitoschido",
+			"SMP"
 		]
 	},
 	"configmanager-admintool-label": "Gestor de configuració",
-	"action-configmanager-viewspecialpage": "mostra la pàgina especial «{{int:configmanager}}»",
-	"configmanager": "Gestor de configuració"
+	"action-configmanager-viewspecialpage": "veure la pàgina especial «{{int:configmanager}}»",
+	"configmanager": "Gestor de configuració",
+	"right-configmanager-viewspecialpage": "Accedir a la pàgina especial [[Special:ConfigManager]]"
 }

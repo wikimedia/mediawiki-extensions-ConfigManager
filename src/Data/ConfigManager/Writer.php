@@ -19,7 +19,7 @@ class Writer extends \BlueSpice\Data\Settings\Writer {
 	 * @param \IContextSource|null $context
 	 */
 	public function __construct( ConfigDefinitionFactory $factory, \BlueSpice\Data\IReader $reader,
-		$loadBalancer, \IContextSource $context = null ) {
+		$loadBalancer, ?\IContextSource $context = null ) {
 		parent::__construct( $reader, $loadBalancer, $context, $context->getConfig() );
 		$this->factory = $factory;
 	}

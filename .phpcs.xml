@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ruleset>
-	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
-		<exclude name="MediaWiki.Usage.NullableType.ExplicitNullableTypes" />
-	</rule>
+	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki" />
 	<rule ref="MediaWiki.NamingConventions.LowerCamelFunctionsName">
 		<exclude-pattern>src/Api/Task/ConfigManager\.php</exclude-pattern>
 	</rule>

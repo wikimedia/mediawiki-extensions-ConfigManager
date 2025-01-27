@@ -13,5 +13,8 @@
 	"configmanager": "مدیر پیکربندی",
 	"configmanager-desc": "به مدیران این امکان را می‌دهد که تمام ویکی را از طریق یک صفحهٔ ویژه پیکربندی کنند",
 	"configmanager-discardchanges": "دور ریختن تغییرات",
-	"apihelp-configmanager-tasks-summary": "مدیریت وظایف"
+	"configmanager-noentry": "مدخلی یافت نشد",
+	"apihelp-configmanager-tasks-summary": "مدیریت وظایف",
+	"apihelp-configmanager-store-summary": "مدیریت مخزن‌ها",
+	"right-configmanager-viewspecialpage": "دسترسی به صفحهٔ ویژهٔ [[Special:ConfigManager]]"
 }

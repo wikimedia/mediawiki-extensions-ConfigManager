@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"configmanager-admintool-label": "سمبالښت چاروال",
+	"action-configmanager-viewspecialpage": "د \"{{int:configmanager}}\" ځانگړي مخ کتل",
+	"configmanager": "سمبالښت چاروال",
+	"configmanager-desc": "پازوالانو ته دا شونتيا وړاندې کوي چې ټوله ويکي له يو ځانگړي مخ نه سمبال کړي",
+	"configmanager-discardchanges": "بدلونونه دې پرېښودل شي؟",
+	"configmanager-noentry": "هېڅ ننوتنه ونهٔ موندل شوه",
+	"apihelp-configmanager-tasks-summary": "دندو چاروالي",
+	"apihelp-configmanager-store-summary": "هټيو چاروالي",
+	"right-configmanager-viewspecialpage": "[[Special:ConfigManager]] ځانگړي مخ ته لاسرسی"
+}

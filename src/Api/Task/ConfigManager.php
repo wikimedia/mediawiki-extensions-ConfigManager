@@ -8,6 +8,7 @@ use BlueSpice\Data\RecordSet;
 use BlueSpice\Data\Settings\Store;
 use BlueSpice\Services;
 use ConfigManager\Data\ConfigManager\Record;
+use MediaWiki\Html\Html;
 
 class ConfigManager extends \BSApiTasksBase {
 
@@ -70,7 +71,7 @@ class ConfigManager extends \BSApiTasksBase {
 			}
 			$result->message .= $record->get( Record::NAME ) . ': ';
 			$result->message .= $record->getStatus()->getHTML( false, false );
-			$result->message .= \Html::element( 'br' );
+			$result->message .= Html::element( 'br' );
 		}
 		if ( empty( $result->message ) ) {
 			$result->success = true;

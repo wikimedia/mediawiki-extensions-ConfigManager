@@ -4,8 +4,9 @@ namespace ConfigManager\ResourceLoader;
 
 use BlueSpice\ConfigDefinition;
 use BlueSpice\Services;
+use MediaWiki\ResourceLoader\Module;
 
-class Messages extends \ResourceLoaderModule {
+class Messages extends Module {
 	/**
 	 * Get the messages needed for this module.
 	 *

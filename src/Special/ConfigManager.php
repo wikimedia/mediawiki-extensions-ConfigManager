@@ -16,7 +16,6 @@ class ConfigManager extends ManagerBase {
 	}
 
 	/**
-	 *
 	 * @param string $param
 	 */
 	public function execute( $param ) {
@@ -27,7 +26,6 @@ class ConfigManager extends ManagerBase {
 	}
 
 	/**
-	 *
 	 * @param ConfigDefinition $cfgDef
 	 * @param array &$pathMessages
 	 */
@@ -62,7 +60,6 @@ class ConfigManager extends ManagerBase {
 	}
 
 	/**
-	 *
 	 * @return array
 	 */
 	protected function getJSVars() {

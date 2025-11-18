@@ -8,13 +8,11 @@ use BlueSpice\Data\IRecord;
 class SecondaryDataProvider extends \BlueSpice\Data\SecondaryDataProvider {
 
 	/**
-	 *
 	 * @var ConfigDefinitionFactory
 	 */
 	protected $factory = null;
 
 	/**
-	 *
 	 * @param ConfigDefinitionFactory $factory
 	 */
 	public function __construct( ConfigDefinitionFactory $factory ) {
@@ -22,7 +20,6 @@ class SecondaryDataProvider extends \BlueSpice\Data\SecondaryDataProvider {
 	}
 
 	/**
-	 *
 	 * @param IRecord &$dataSet
 	 */
 	protected function doExtend( &$dataSet ) {

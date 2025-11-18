@@ -29,7 +29,6 @@ class Messages extends Module {
 	}
 
 	/**
-	 *
 	 * @param ConfigDefinition $cfgDef
 	 * @param array &$messages
 	 * @return array

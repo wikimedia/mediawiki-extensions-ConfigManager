@@ -9,7 +9,6 @@ use ConfigManager\Data\ConfigManager\Store;
 class ConfigManager extends \BlueSpice\Api\Store {
 
 	/**
-	 *
 	 * @return string[]
 	 */
 	protected function getRequiredPermissions() {
@@ -17,7 +16,6 @@ class ConfigManager extends \BlueSpice\Api\Store {
 	}
 
 	/**
-	 *
 	 * @return Store
 	 */
 	protected function makeDataStore() {

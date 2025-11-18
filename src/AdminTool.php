@@ -8,7 +8,6 @@ use Message;
 class AdminTool implements IAdminTool {
 
 	/**
-	 *
 	 * @return string
 	 */
 	public function getURL() {
@@ -17,7 +16,6 @@ class AdminTool implements IAdminTool {
 	}
 
 	/**
-	 *
 	 * @return Message
 	 */
 	public function getDescription() {
@@ -25,7 +23,6 @@ class AdminTool implements IAdminTool {
 	}
 
 	/**
-	 *
 	 * @return Message
 	 */
 	public function getName() {
@@ -33,7 +30,6 @@ class AdminTool implements IAdminTool {
 	}
 
 	/**
-	 *
 	 * @return string[]
 	 */
 	public function getClasses() {
@@ -45,7 +41,6 @@ class AdminTool implements IAdminTool {
 	}
 
 	/**
-	 *
 	 * @return array
 	 */
 	public function getDataAttributes() {
@@ -53,7 +48,6 @@ class AdminTool implements IAdminTool {
 	}
 
 	/**
-	 *
 	 * @return string[]
 	 */
 	public function getPermissions() {

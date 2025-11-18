@@ -32,7 +32,6 @@ class ConfigManager extends \BSApiTasksBase {
 	}
 
 	/**
-	 *
 	 * @param \stdClass $taskData
 	 * @param array $aParams
 	 * @return Standard

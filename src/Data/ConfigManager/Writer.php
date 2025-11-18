@@ -7,7 +7,6 @@ use BlueSpice\ConfigDefinitionFactory;
 class Writer extends \BlueSpice\Data\Settings\Writer {
 
 	/**
-	 *
 	 * @var ConfigDefinitionFactory
 	 */
 	protected $factory = null;

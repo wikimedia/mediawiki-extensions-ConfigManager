@@ -3,13 +3,14 @@
 		"authors": [
 			"Chrumps",
 			"Rail",
-			"Railfail536"
+			"Railfail536",
+			"Woytecr"
 		]
 	},
 	"configmanager-admintool-label": "Menadżer konfiguracji",
 	"action-configmanager-viewspecialpage": "wyświetlania strony specjalnej „{{int:configmanager}}”",
 	"configmanager": "Menadżer konfiguracji",
-	"configmanager-desc": "Daje administratorom możliwość skonfigurowania wiki z poziomu stronys pecjalnej",
+	"configmanager-desc": "Daje administratorom możliwość skonfigurowania wiki z poziomu strony specjalnej",
 	"configmanager-discardchanges": "Porzucić zmiany?",
 	"configmanager-noentry": "Nie znaleziono wpisów",
 	"apihelp-configmanager-tasks-summary": "Zarządzaj zadaniami",

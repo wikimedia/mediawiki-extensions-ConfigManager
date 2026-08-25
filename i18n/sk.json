@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"configmanager-admintool-label": "Správca konfigurácie",
+	"action-configmanager-viewspecialpage": "zobraziť špeciálnu stránku „{{int:configmanager}}“",
+	"configmanager": "Správca konfigurácie",
+	"configmanager-desc": "Ponúka správcom možnosť nakonfigurovať celú wiki z jedinej špeciálnej stránky",
+	"configmanager-discardchanges": "Zahodiť zmeny?",
+	"configmanager-noentry": "Nenašla sa žiadna položka",
+	"apihelp-configmanager-tasks-summary": "Spravovať úlohy",
+	"apihelp-configmanager-store-summary": "Spravovať úložiská",
+	"right-configmanager-viewspecialpage": "Prístup k špeciálnej stránke [[Special:ConfigManager]]"
+}

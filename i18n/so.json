@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"configmanager-admintool-label": "Maareeyaha habaynta",
+	"action-configmanager-viewspecialpage": "fiiri bogga gaarka ah \"{{int:configmanager}}\"",
+	"configmanager": "Maareeyaha habaynta",
+	"configmanager-desc": "Waxay maamulayaasha siinaysaa suurtagalnimada inay wikiga oo dhan ka habeeyaan hal bog gaar ah",
+	"configmanager-discardchanges": "Isbeddellada ma la tuuraa?",
+	"configmanager-noentry": "Gelitaan lama helin",
+	"apihelp-configmanager-tasks-summary": "Maamul hawlaha",
+	"apihelp-configmanager-store-summary": "Maamul kaydadka",
+	"right-configmanager-viewspecialpage": "Gelitaanka bogga gaarka ah [[Special:ConfigManager]]"
+}
